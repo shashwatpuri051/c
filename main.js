@@ -1,4 +1,4 @@
 function button()
 {
-    console.log("pls god");
+    console.log(" god");
 }
